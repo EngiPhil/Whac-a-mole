@@ -1,0 +1,22 @@
+.grid {
+	width: 612px;
+	height: 612px;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.square {
+	height: 200px;
+	width: 200px;
+	border: solid black 2px;
+}
+
+.mole {
+	background-image: url("mole.jpg");
+	background-size: cover;
+}
+
+.whackedMole {
+	background-image: url("whacked_mole.jpg");
+	background-size: cover;
+}
